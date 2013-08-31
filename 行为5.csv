@@ -114,12 +114,12 @@ deformations#变形##
 reduction#减少##
 undermine#削弱##
 intensive#紧张的##
-methodologies#方法##
+methodologies#方法#Unsupervised feature learning and deep learning have emerged as methodologies in machine learning for building features from unlabeled data.#
 intriguing#奇妙##
-feasibility#可行性##
-emphasizes#强调##
-contemporary#现代的##
+feasibility#可行性#This work investigates the feasibility of building highlevel features from only unlabeled data.#
+emphasizes#强调#Contemporary computer vision methodology typically emphasizes the role of labeled data to obtain these class-specific feature etectors.#
+contemporary#现代的#Contemporary computer vision methodology typically emphasizes the role of labeled data to obtain these class-specific feature etectors.#
 temporal#颞##
-conjecture#猜测##
-leap of#飞跃##
+conjecture#猜测#This approach is inspired by the neuroscientific conjecture that there exist highly class-specific neurons in the human brain#
+leap of#飞跃#A significant leap of 70% relative improvement over the state-of-the-art.#
 parsimonious#吝啬的##
